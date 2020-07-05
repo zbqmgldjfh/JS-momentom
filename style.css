@@ -1,0 +1,20 @@
+body {
+  background-color: peru;
+}
+
+h1 {
+  color: #34952;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
